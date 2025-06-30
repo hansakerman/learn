@@ -35,4 +35,9 @@ Skriv en funktion som kvadrerar ett heltal. Exempel srqt(2) ska ge 4.
 
 Skapa en klass som heter “synth” som har en metod som skriver ut vilken tillverkare synthen har. Skapa till exempel ett objekt av klassen som heter “ms20” och en metod som kallas så här: ms20.make(). Skapa ytterligare en synth.
 
+GÖr en ytterligare metod som heter "sound".
+
+Skapa en variabel "year" för synthklassen. Skriv sedan tillverkningsår i klassen.
+
+Till synth-klassen gör subklasser digitalsynth och 
 
